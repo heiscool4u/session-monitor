@@ -1,0 +1,8 @@
+{
+  "name": "session-monitor",
+  "version": "0.1.0",
+  "description": "오른쪽 패널에 현재 세션의 제목·목표, Claude가 쓴 도구, 고친 파일을 실시간으로 보여준다.",
+  "author": { "name": "heiscool4u" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

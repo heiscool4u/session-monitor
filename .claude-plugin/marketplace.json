@@ -1,0 +1,5 @@
+{
+  "name": "session-monitor",
+  "owner": { "name": "heiscool4u" },
+  "plugins": [{ "name": "session-monitor", "source": "./" }]
+}
